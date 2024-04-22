@@ -14,7 +14,7 @@ This repository contains a collection of mini projects completed as part of the 
 - [Mini Project: Blackjack Game](https://py2.codeskulptor.org/#user48_KhfQfC2uEQODgR5_0.py)
 - [Mini Project: RiceRocks Game](https://py2.codeskulptor.org/#user48_mrwsKK3jWfMdEEG_0.py)
 - [Mini Project: 2048 Game](https://py2.codeskulptor.org/#user50_BaChEG2Or798a7S.py)
-- [Mini Project: Tic Tac Toe Game] (https://py2.codeskulptor.org/#user50_XJGyXTL8Ma3bcRB.py)
+- [Mini Project: Tic Tac Toe Game](https://py2.codeskulptor.org/#user50_XJGyXTL8Ma3bcRB.py)
   
 Each mini project includes a brief description and the source code developed during the course.
 
