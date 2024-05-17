@@ -1,5 +1,5 @@
 # Fundamentals-of-Computing-Mini-Projects-with-Python
-This repository contains a collection of mini projects completed as part of the Fundamentals of Computing specialization on Coursera (https://www.coursera.org/specializations/computer-fundamentals). These projects were developed using Python 2 within the online editor "CodeSkulptor" provided by Scott Rixner, one of the courses instructors.
+This repository contains a collection of mini projects completed as part of the Fundamentals of Computing specialization on Coursera (https://www.coursera.org/specializations/computer-fundamentals). These projects were developed using Python 2 within the online editor [CodeSkulptor](https://py2.codeskulptor.org/) provided by Scott Rixner, one of the courses instructors.
 
 ## Courses Completed:
 1. [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals)
